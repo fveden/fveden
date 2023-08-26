@@ -1,2 +1,2 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gluten&size=30&pause=500&color=C00000&center=true&width=435&lines=Hi%2C+I'm+Fedor+%F0%9F%99%83" alt="Typing SVG" /></a><br>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gluten&size=15&pause=500&color=FFFFFF&center=true&width=435&lines=Computer+science+student+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gluten&size=30&pause=500&color=C00000&width=435&lines=Hi%2C+I'm+Fedor" alt="Typing SVG" /></a><br>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gluten&size=20&pause=500&color=FFFFFF&width=435&lines=Computer+science+student+%F0%9F%92%BB" alt="Typing SVG" /></a>
